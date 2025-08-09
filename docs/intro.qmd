@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Installation
+# Tutorial Intro
 
 Let's install `nelsonthemes`.
 
@@ -25,5 +25,6 @@ devtools::install_github("Nelson-DevStack/nelsonthemes")
 You can load the package with `require` or `library`:
 
 ```{r}
-library(nelsonthemes)
+require(nelsonthemes)
+library(nelsonthems)
 ```
