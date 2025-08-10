@@ -6,8 +6,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'nelsonthemes',
-  tagline: 'Temas do ggplot bonitos e prontos para uso profissional',
-  favicon: 'img/favicon.ico',
+  tagline: 'Pretty production-ready ggplot themes',
+  favicon: 'img/logo_nelsonthemes.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
