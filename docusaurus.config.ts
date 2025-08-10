@@ -18,7 +18,7 @@ const config: Config = {
   url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/nelsonthemesr/',
+  baseUrl: '/nelsonthemesr',
   // deploymentBranch: "gh-pages",
 
   // GitHub pages deployment config.
