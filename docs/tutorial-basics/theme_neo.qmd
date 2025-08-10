@@ -34,10 +34,7 @@ A ggplot theme object
 ```{r, messages=FALSE, warning=FALSE, dpi = 300}
 require(ggplot2)
 ggplot(mtcars, aes(x=  factor(gear))) +
-geom_bar() +
-  scale_y_continuous(
-    expand = expansion(c(0, 0.5))
-  ) +
+  geom_bar() +
   geom_text(
     stat="count",
     aes(label = after_stat(count)),
