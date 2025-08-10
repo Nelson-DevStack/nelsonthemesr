@@ -14,13 +14,13 @@ const Solutions = () => {
         </div>
         <div className="col-span-full grid grid-cols-4 md:grid-cols-8 lg:grid-cols-12 gap-y-8 lg:gap-x-32">
           <div className="col-span-full lg:col-span-6 flex flex-col gap-2">
-            <h3 className="bg-[#fafafa] px-4 py-2 text-xl lg:text-3xl text-slate-900 max-w-fit flex flex-row gap-4 rounded-md uppercase text-[#492EB7] font-bold">Before ❌</h3>
+            <h3 className="bg-[#fafafa] px-4 py-2 text-xl lg:text-3xl text-slate-900 max-w-fit flex flex-row gap-4 rounded-md uppercase text-[#492EB7] font-bold font-main">Before ❌</h3>
             <div>
               <img src={require("@site/static/img/features_before.png").default} />
             </div>
           </div>
           <div className="col-span-full lg:col-span-6 flex flex-col gap-2">
-            <h3 className="bg-[#fafafa] px-4 py-2 text-xl lg:text-3xl text-slate-900 max-w-fit flex flex-row gap-4 rounded-md uppercase text-[#492EB7] font-bold">After ✅</h3>
+            <h3 className="bg-[#fafafa] px-4 py-2 text-xl lg:text-3xl text-slate-900 max-w-fit flex flex-row gap-4 rounded-md uppercase text-[#492EB7] font-bold font-main">After ✅</h3>
             <div>
               <img src={require("@site/static/img/features_after.png").default} />
             </div>
