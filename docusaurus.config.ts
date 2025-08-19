@@ -23,7 +23,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Nelson-DevStack', // Usually your GitHub org/user name.
+  organizationName: 'onelsoncarvalho', // Usually your GitHub org/user name.
   projectName: 'nelsonthemesr', // Usually your repo name.
 
   onBrokenLinks: 'ignore',
@@ -137,7 +137,7 @@ const config: Config = {
         },
         // {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/Nelson-DevStack/nelsonthemes/',
+          href: 'https://github.com/onelsoncarvalho/nelsonthemes/',
           label: 'GitHub',
           position: 'right',
         },
@@ -185,7 +185,7 @@ const config: Config = {
             // },
             {
               label: 'GitHub',
-              href: 'https://github.com/Nelson-DevStack/nelsonthemes/',
+              href: 'https://github.com/onelsoncarvalho/nelsonthemes/',
             },
           ],
         },
